@@ -9,5 +9,5 @@ Acheived a score of 96.72% on test/submission set
 
 Some Notable Details:
 
-- Dataset: Train, Test and Submission files in data.zip
+- Datasets: Train and Test files in data.zip, Test results in submission.csv
 - Dependencies: requirements.txt

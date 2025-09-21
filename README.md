@@ -5,10 +5,9 @@ Used Logistic Regression and XGBoost models to predict whether a client would su
 Utilized the Python Libraries (Pandas, Matplotlib, Sklearn, XGBoost) for Data preprocessing, Model selection and Training, Model Evaluation and Data Visualization. Used GridSearchCV for hyperparameter tuning of XGBClassifier.
 
 Used Performance Metrics such as Accuracy, F1-Score, Precision and Recall. Achieved an 93.5% accuracy on CV set.
+Acheived a score of 96.72% on test/submission set
 
 Some Notable Details:
 
 - Dataset: Train, Test and Submission files in data.zip
 - Dependencies: requirements.txt
-- Must be entered into competition to view dataset
-- Acheived a score of 96.72% on test/submission set

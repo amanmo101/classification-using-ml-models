@@ -8,6 +8,7 @@ Used Performance Metrics such as Accuracy, F1-Score, Precision and Recall. Achie
 
 Some Notable Details:
 
-- Dataset: Kaggle Competition: https://www.kaggle.com/competitions/playground-series-s5e8/data
+- Dataset: Train, Test and Submission files in data.zip
+- Dependencies: requirements.txt
 - Must be entered into competition to view dataset
 - Acheived a score of 96.72% on test/submission set
